@@ -53,7 +53,7 @@ The model uses merged historical data of top cryptocurrencies such as BTC, ETH, 
 
 The model plots actual vs. predicted closing prices for test data, helping visualize prediction accuracy.
 
-![Prediction Plot](./sample_plot.png) <!-- Replace with actual path if uploading plot -->
+
 
 ## 📂 File Structure
 
@@ -74,4 +74,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-🔍 _Developed by Fatih Celik — Powered by TensorFlow & Keras_
+🔍 _Developed by Yuksel Celik — Powered by TensorFlow & Keras_
